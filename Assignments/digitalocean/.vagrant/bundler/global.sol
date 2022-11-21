@@ -1,0 +1,1 @@
+{"dependencies":[["log4r",[">= 0"]],["json",[">= 0"]],["ruby2_keywords",[">= 0.0.4"]],["faraday-net_http",[">= 2.0","< 3.1"]],["faraday",[">= 0.8.6"]],["vagrant-digitalocean",["= 0.9.5"]],["vagrant-puppet-install",["= 7.0.0"]]],"checksum":"0f8f1b8e0c7efa71262146ce64081a92a0695071ad046f24e3ddbbce1115adb6","vagrant_version":"2.3.2"}
